@@ -19,7 +19,7 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency 'activerecord', '~> 5.1'
   gem.add_dependency 'activesupport', '~> 5.1'
-  gem.add_dependency 'activerecord-import', '~> 0.19.1'
+  gem.add_dependency 'activerecord-import', '~> 0.20.0'
   gem.add_dependency 'money-rails'
   gem.add_dependency 'monetize'
 
